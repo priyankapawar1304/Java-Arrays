@@ -20,6 +20,5 @@ class AkashAndLeave
             }
             System.out.println(div);
         }
-        // your code goes here
     }
 }
